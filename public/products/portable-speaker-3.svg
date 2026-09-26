@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="portable-speaker">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0c1120"/>
+      <stop offset="55%" stop-color="#062b3d"/>
+      <stop offset="100%" stop-color="#05070d"/>
+    </linearGradient>
+    <radialGradient id="g" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#12aee0" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#12aee0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="v" cx="50%" cy="42%" r="70%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <circle cx="86" cy="355" r="177" fill="url(#g)" opacity="0.26" /><circle cx="734" cy="578" r="307" fill="url(#g)" opacity="0.32" /><circle cx="1051" cy="891" r="144" fill="url(#g)" opacity="0.30" /><circle cx="770" cy="511" r="417" fill="url(#g)" opacity="0.19" /><circle cx="524" cy="277" r="237" fill="url(#g)" opacity="0.22" /><circle cx="1081" cy="873" r="350" fill="url(#g)" opacity="0.32" />
+  <line x1="1151" y1="862" x2="1343" y2="843" stroke="#33c9f2" stroke-width="1" opacity="0.14" /><line x1="659" y1="342" x2="1149" y2="354" stroke="#33c9f2" stroke-width="1" opacity="0.14" /><line x1="283" y1="171" x2="660" y2="198" stroke="#33c9f2" stroke-width="1" opacity="0.14" /><line x1="379" y1="44" x2="860" y2="92" stroke="#33c9f2" stroke-width="1" opacity="0.14" /><line x1="677" y1="181" x2="1138" y2="191" stroke="#33c9f2" stroke-width="1" opacity="0.14" /><line x1="1056" y1="779" x2="1271" y2="831" stroke="#33c9f2" stroke-width="1" opacity="0.14" /><line x1="304" y1="531" x2="640" y2="537" stroke="#33c9f2" stroke-width="1" opacity="0.14" /><line x1="864" y1="299" x2="1180" y2="349" stroke="#33c9f2" stroke-width="1" opacity="0.14" /><line x1="498" y1="780" x2="630" y2="828" stroke="#33c9f2" stroke-width="1" opacity="0.14" /><line x1="528" y1="581" x2="1044" y2="574" stroke="#33c9f2" stroke-width="1" opacity="0.14" /><line x1="793" y1="513" x2="1204" y2="472" stroke="#33c9f2" stroke-width="1" opacity="0.14" /><line x1="34" y1="127" x2="610" y2="106" stroke="#33c9f2" stroke-width="1" opacity="0.14" /><line x1="1192" y1="396" x2="1390" y2="339" stroke="#33c9f2" stroke-width="1" opacity="0.14" /><line x1="430" y1="736" x2="950" y2="777" stroke="#33c9f2" stroke-width="1" opacity="0.14" />
+  <rect width="1200" height="900" fill="url(#v)"/>
+  <g transform="rotate(15 600 450)" opacity="0.5">
+    <ellipse cx="600" cy="450" rx="384" ry="144" fill="none" stroke="#12aee0" stroke-width="1.5" opacity="0.5"/>
+    <ellipse cx="600" cy="450" rx="288" ry="99" fill="none" stroke="#0c6b95" stroke-width="1.5" opacity="0.45"/>
+  </g>
+</svg>

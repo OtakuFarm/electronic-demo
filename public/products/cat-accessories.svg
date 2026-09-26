@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="cat-accessories">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0c1120"/>
+      <stop offset="55%" stop-color="#2a1a2a"/>
+      <stop offset="100%" stop-color="#05070d"/>
+    </linearGradient>
+    <radialGradient id="g" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f43f5e" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#f43f5e" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="v" cx="50%" cy="42%" r="70%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <circle cx="394" cy="406" r="165" fill="url(#g)" opacity="0.18" /><circle cx="769" cy="335" r="179" fill="url(#g)" opacity="0.15" /><circle cx="236" cy="8" r="174" fill="url(#g)" opacity="0.21" /><circle cx="983" cy="147" r="351" fill="url(#g)" opacity="0.12" /><circle cx="5" cy="30" r="273" fill="url(#g)" opacity="0.31" />
+  <line x1="240" y1="821" x2="599" y2="817" stroke="#9f1239" stroke-width="1" opacity="0.14" /><line x1="983" y1="429" x2="1580" y2="408" stroke="#9f1239" stroke-width="1" opacity="0.14" /><line x1="945" y1="540" x2="1364" y2="563" stroke="#9f1239" stroke-width="1" opacity="0.14" /><line x1="841" y1="876" x2="1218" y2="927" stroke="#9f1239" stroke-width="1" opacity="0.14" /><line x1="903" y1="886" x2="1072" y2="853" stroke="#9f1239" stroke-width="1" opacity="0.14" /><line x1="254" y1="274" x2="796" y2="304" stroke="#9f1239" stroke-width="1" opacity="0.14" /><line x1="714" y1="81" x2="1132" y2="60" stroke="#9f1239" stroke-width="1" opacity="0.14" /><line x1="920" y1="556" x2="1356" y2="521" stroke="#9f1239" stroke-width="1" opacity="0.14" /><line x1="781" y1="653" x2="1380" y2="674" stroke="#9f1239" stroke-width="1" opacity="0.14" /><line x1="80" y1="719" x2="418" y2="708" stroke="#9f1239" stroke-width="1" opacity="0.14" /><line x1="1096" y1="802" x2="1246" y2="767" stroke="#9f1239" stroke-width="1" opacity="0.14" /><line x1="340" y1="735" x2="880" y2="731" stroke="#9f1239" stroke-width="1" opacity="0.14" /><line x1="736" y1="278" x2="1207" y2="316" stroke="#9f1239" stroke-width="1" opacity="0.14" /><line x1="824" y1="454" x2="959" y2="402" stroke="#9f1239" stroke-width="1" opacity="0.14" />
+  <rect width="1200" height="900" fill="url(#v)"/>
+  <g transform="rotate(26 600 450)" opacity="0.5">
+    <ellipse cx="600" cy="450" rx="384" ry="144" fill="none" stroke="#f43f5e" stroke-width="1.5" opacity="0.5"/>
+    <ellipse cx="600" cy="450" rx="288" ry="99" fill="none" stroke="#12aee0" stroke-width="1.5" opacity="0.45"/>
+  </g>
+</svg>

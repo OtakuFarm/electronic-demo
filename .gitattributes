@@ -1,0 +1,8 @@
+# Normalise line endings on checkout; keep LF in the repo.
+* text=auto eol=lf
+
+# Generated artwork — keep as-is, no line-ending rewriting.
+*.svg -text
+
+# Lockfiles and generated files are not worth diffing line-by-line.
+package-lock.json -diff

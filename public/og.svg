@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="PULSE — Technology That Moves With You">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080b14"/>
+      <stop offset="55%" stop-color="#0c2b3d"/>
+      <stop offset="100%" stop-color="#05070d"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="30%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#12aee0" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#12aee0" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="mark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#33c9f2"/>
+      <stop offset="100%" stop-color="#0a89bb"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+
+  <g stroke="#33c9f2" stroke-width="1" opacity="0.1">
+    <path d="M0 130h1200M0 260h1200M0 390h1200M0 520h1200"/>
+    <path d="M200 0v630M400 0v630M600 0v630M800 0v630M1000 0v630"/>
+  </g>
+
+  <g transform="translate(96 236)">
+    <rect width="56" height="56" rx="14" fill="url(#mark)"/>
+    <circle cx="28" cy="28" r="7" fill="#05070d"/>
+  </g>
+  <text x="176" y="282" font-family="Manrope, system-ui, sans-serif" font-size="44" font-weight="700" letter-spacing="12" fill="#ffffff">PULSE</text>
+
+  <text x="96" y="390" font-family="Manrope, system-ui, sans-serif" font-size="66" font-weight="600" letter-spacing="-2" fill="#ffffff">Technology that</text>
+  <text x="96" y="462" font-family="Manrope, system-ui, sans-serif" font-size="66" font-weight="600" letter-spacing="-2" fill="#33c9f2">moves with you.</text>
+
+  <text x="96" y="540" font-family="Inter, system-ui, sans-serif" font-size="22" fill="#94a3b8">Audio · Smart devices · Accessories — engineered to be kept.</text>
+</svg>

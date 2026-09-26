@@ -1,0 +1,185 @@
+You are a senior full-stack developer, UI/UX designer, and e-commerce conversion specialist.
+
+Build a premium electronics e-commerce portfolio website called "PULSE".
+
+IMPORTANT:
+- PULSE is a fictional company created for a developer portfolio.
+- Do not use real electronics companies' branding.
+- Products and reviews must be fictional.
+- Do not implement real payment processing.
+- Do not claim Shopify endorsement.
+- The website should demonstrate professional Shopify-style development.
+
+TECH STACK:
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Lucide React
+- Framer Motion
+- Reusable components
+- Mock product data
+- Architecture that could later connect to Shopify APIs
+
+BRAND:
+Name: PULSE
+Industry: Consumer electronics
+Tagline: "Technology That Moves With You."
+Target audience: 18–45
+Brand personality: futuristic, reliable, clean, premium.
+
+DESIGN:
+Create a modern technology/e-commerce experience.
+
+Use:
+- Strong typography
+- Clean cards
+- Product-focused layouts
+- High-quality product imagery
+- Technical specifications
+- Comparison sections
+- Subtle animations
+- Excellent mobile experience
+
+The design should feel premium and modern without copying Apple, Samsung, Sony, or another existing brand.
+
+PAGES:
+1. Home
+2. Shop
+3. Audio
+4. Smart Devices
+5. Accessories
+6. Product page
+7. Compare
+8. About
+9. Support
+10. Contact
+11. Cart
+12. Wishlist
+13. FAQ
+14. Shipping & Returns
+15. Privacy
+16. Terms
+
+HOME PAGE:
+Include:
+- Announcement bar
+- Navigation
+- Hero product
+- Featured products
+- Shop categories
+- Best sellers
+- New technology section
+- Product comparison teaser
+- Customer reviews
+- Why PULSE section
+- Newsletter
+- Footer
+
+PRODUCTS:
+Create at least 12 fictional products.
+
+Examples:
+- PULSE Air Pro Headphones
+- PULSE Mini Wireless Earbuds
+- PULSE Watch One
+- PULSE Home Hub
+- PULSE Soundbar X
+- PULSE Portable Speaker
+- PULSE PowerBank 20K
+- PULSE Smart Lamp
+- PULSE Mechanical Keyboard
+- PULSE Wireless Mouse
+- PULSE USB-C Hub
+- PULSE Charging Station
+
+Each product should include:
+- Name
+- Price
+- Description
+- Product images
+- Rating
+- Reviews
+- Specifications
+- Features
+- Compatibility
+- Stock status
+- Warranty information
+
+PRODUCT PAGE:
+Include:
+- Product image gallery
+- Product title
+- Price
+- Rating
+- Description
+- Key features
+- Technical specifications
+- Compatibility
+- What's included
+- Warranty
+- Quantity
+- Add to cart
+- Wishlist
+- Reviews
+- Related products
+
+PRODUCT COMPARISON:
+Create a comparison interface.
+
+Allow users to compare up to 3 fictional products.
+
+Comparison fields:
+- Price
+- Battery life
+- Weight
+- Connectivity
+- Water resistance
+- Warranty
+- Main features
+
+Make the comparison easy to understand on mobile.
+
+FUNCTIONALITY:
+- Cart
+- Wishlist
+- Search
+- Product filtering
+- Category filtering
+- Price filtering
+- Sorting
+- Product comparison
+- Mobile navigation
+- Newsletter validation
+- Toast notifications
+
+ANIMATIONS:
+Use tasteful Framer Motion animations.
+Do not over-animate.
+
+PERFORMANCE:
+- Optimize images
+- Lazy load images
+- Avoid unnecessary packages
+- Use reusable components
+- Maintain clean code
+- Good accessibility
+
+SEO:
+Add realistic SEO metadata.
+Add Open Graph metadata.
+Create useful titles and descriptions.
+
+PORTFOLIO PURPOSE:
+This project should demonstrate the ability to create a sophisticated electronics e-commerce store with product discovery, technical specifications, comparison tools, responsive design, and conversion-focused UX.
+
+Before finishing:
+1. Run the project.
+2. Fix all errors.
+3. Fix TypeScript issues.
+4. Test cart.
+5. Test search.
+6. Test filters.
+7. Test product comparison.
+8. Test mobile responsiveness.
+9. Remove unnecessary code.
+10. Give me a concise explanation of the architecture.
